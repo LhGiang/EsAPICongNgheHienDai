@@ -37,3 +37,42 @@ C:\Users\UpdatusUser\Documents\GitHub\cnhd2015\API\ESApi\ESApi\bin\AutoMapper.xm
 C:\Users\UpdatusUser\Documents\GitHub\cnhd2015\API\ESApi\ESApi\bin\System.Web.Cors.dll
 C:\Users\UpdatusUser\Documents\GitHub\cnhd2015\API\ESApi\ESApi\bin\System.Web.Http.Cors.dll
 C:\Users\UpdatusUser\Documents\GitHub\cnhd2015\API\ESApi\ESApi\bin\System.Web.Http.Cors.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\ESApi.dll.config
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\ESApi.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\ESApi.pdb
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\Antlr3.Runtime.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\AutoMapper.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\EntityFramework.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\Microsoft.Web.Infrastructure.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\Newtonsoft.Json.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Net.Http.Formatting.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Cors.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Helpers.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Http.Cors.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Http.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Http.WebHost.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Mvc.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Optimization.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Razor.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.WebPages.Deployment.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.WebPages.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.WebPages.Razor.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\WebGrease.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\AutoMapper.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\EntityFramework.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\Newtonsoft.Json.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Net.Http.Formatting.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Http.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Http.Cors.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Helpers.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Http.WebHost.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Mvc.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Optimization.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.Razor.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.WebPages.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.WebPages.Deployment.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\System.Web.WebPages.Razor.xml
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\bin\Antlr3.Runtime.pdb
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\obj\Debug\ESApi.csprojResolveAssemblyReference.cache
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\obj\Debug\ESApi.dll
+F:\Program Files (x86)\Git\EsApiCNHD\ESApi\obj\Debug\ESApi.pdb
